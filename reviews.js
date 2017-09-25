@@ -2,7 +2,7 @@
 /*** bl.ocks.org/micahstubbs/8e15870eb432a21f0bc4d3d527b2d14f ***/
 
 // Config.txt file location
-var config_txt = "https://gist.githubusercontent.com/becausealice2/c8c72dbe1f8e4da4beca4dd062bb612f/raw/46f9f89c006c93e0238a2d7085c11f70974d09b9/config.txt";
+var config_txt = "config.txt";
 
 // Initialize variables
 var config     = {},
