@@ -2,7 +2,7 @@
 /*** bl.ocks.org/micahstubbs/8e15870eb432a21f0bc4d3d527b2d14f ***/
 
 // Config.txt file location
-var config_txt = "config.txt";
+var config_txt = "https://rawgit.com/fronce14/restaurant-reviews/master/config.txt";
 
 // Initialize variables
 var config     = {},
