@@ -1,6 +1,6 @@
 MAP_LOCATION: gist.githubusercontent.com/d3noob/5189284/raw/7c4bbf3f44d2aeb4d01ca6365b7978b09fdc8766/world-110m2.json
 
-REVIEWS_LOCATION: gist.githubusercontent.com/becausealice2/663243e3982136e391d53fb4150fecb1/raw/4cb35987a8a2a113ddd7809479850a4d88c5870f/restaurant_reviews.csv
+REVIEWS_LOCATION: rawgit.com/fronce14/restaurant-reviews/master/restaurant_reviews.csv
 
 REVIEWS_LATITUDE_COLUMN: latitude
 
